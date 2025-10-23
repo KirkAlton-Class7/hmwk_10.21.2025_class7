@@ -38,7 +38,7 @@ Run Aaron’s script to check required software:
 curl https://raw.githubusercontent.com/aaron-dm-mcdonald/Class7-notes/refs/heads/main/101825/check.sh | bash
 ```
 
->If you encounter errors, review the Aaron's notes here: [Class 7 Prerequisite README](https://github.com/KirkAlton-Class7/aaron_notes_class7/blob/main/101825/README.md#prereqs)
+> If you encounter errors, review the Aaron's notes here: [Class 7 Prerequisite README](https://github.com/KirkAlton-Class7/aaron_notes_class7/blob/main/101825/README.md#prereqs)
 
 #### **Verify AWS CLI Authentication**
 Run this in your terminal:
@@ -52,7 +52,7 @@ It should return the following:
 - Account number
 - ARN (Amazon Resource Name)
 
->If this command fails, verify your AWS credentials configuration in CLI or contact your group leader for help. You can also refer to the Class 7 Installation Document for additional information.
+> If this command fails, verify your AWS credentials configuration in CLI or contact your group leader for help. You can also refer to the Class 7 Installation Document for additional information.
 
 #### **Project Directory**
 
@@ -79,12 +79,12 @@ You should understand these basic Git commands and be comfortable performing the
 - `git clone <repo-URL>`
 - `git branch` (`git branch -M main`)
 <br>
-<br>[Git Cheat Sheet](https://git-scm.com/cheat-sheet)
+<br> [Git Cheat Sheet](https://git-scm.com/cheat-sheet)
 <br>
 #### P3.3: AWS Networking Fundamentals**
 You should be familiar with VPC components and understand how to create and manage them in AWS.
 
->Tip: Review the AWS CLI commands for each concept to deepen your understanding and get familiar executing them in command line. You'll need knowledge of these commands when using Terraform.
+> Tip: Review the AWS CLI commands for each concept to deepen your understanding and get familiar executing them in command line. You'll need knowledge of these commands when using Terraform.
 
 - **VPC**
 `aws ec2 create-vpc --cidr-block 10.0.0.0/16`
@@ -114,7 +114,6 @@ Terraform code is made up of the following elements:
 - **Arguments:** Assign values to names inside a block.
 - **Expressions:** Represent values directly or by referencing and combining other values. Used as argument values or inside other expressions.
 <br>
-<br>[Terraform Syntax](https://developer.hashicorp.com/terraform/language)
 <br>[Terraform Syntax](https://developer.hashicorp.com/terraform/language)
 
 #### P4.1: Terraform Terminology
