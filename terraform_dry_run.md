@@ -86,11 +86,13 @@ touch 0-auth.tf
 - Copy and paste the raw contents from the `0-Auth.tf` file in [this TheoWAF Terraform repo](https://github.com/malgus-waf/class5)
 - Save the file.
 
-> **Reminder:** If you don’t save the file, it doesn’t exist. Saving writes your changes to disk so Terraform can read and apply them.
+> [!CAUTION]  
+> If you don’t save the file, it doesn’t exist. Saving writes your changes to disk so Terraform can read and apply them.
 
 ![modify_auth](./images/06_modify_0-auth.png)
 
-> **Note:** The line below sets a version constraint, which requires Terraform to use provider versions greater than 3.0.
+> [!NOTE]  
+> The line below sets a version constraint, which requires Terraform to use provider versions greater than 3.0.
 
 ```terraform
 version = "~> 3.0"
@@ -111,6 +113,7 @@ Terraform will:
 - Create a `.terraform/` directory
 - Generate a `.terraform.lock.hcl` file
 
+> [!WARNING]
 > **DO NOT MODIFY THESE FILES.**  
 > They are automatically managed and critical for running Terraform.
 
