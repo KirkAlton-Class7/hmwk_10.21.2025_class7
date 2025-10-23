@@ -173,3 +173,6 @@ Make sure you understand these basic commands:
 <br>
 
 [Aaron's Notes](https://github.com/aaron-dm-mcdonald/Class7-notes/blob/main/101825/README.md)
+
+> [!WARNING]
+> The `rm -f` command forces the action, and suppresses confirmation prompts. Only use if you know what you're doing, and use with caution.
