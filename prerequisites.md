@@ -139,6 +139,7 @@ Make sure you understand these basic commands:
 | `terraform -help`    | Displays all available commands and options.                                                                                 |
 <br>
 <br>[Terraform Cheat Sheet](https://cheat-sheets.nth-root.nl/terraform-cheat-sheet.pdf)
+<br>
 #### P4.3: Typical Terraform Workflow
 1. Create or modify `.tf` files
 2. Run `terraform init` to initialize the working directory.
