@@ -98,7 +98,7 @@ You should be familiar with VPC components and understand how to create and mana
 > Tip: Review the AWS CLI commands for each concept to deepen your understanding and get familiar executing them in command line. You'll need knowledge of these commands when using Terraform.
 
 - **VPC**
-`aws ec2 create-vpc --cidr-block 10.0.0.0/16`
+	- `aws ec2 create-vpc --cidr-block 10.0.0.0/16`
 - **Subnet**
 	- `aws ec2 create-subnet --vpc-id vpc-xxxxxxxx --cidr-block 10.0.1.0/24 --availability-zone us-east-1a`
 - **Route Table**
@@ -160,5 +160,7 @@ Make sure you understand these basic commands:
 6. Run `terraform apply` to execute the plan
 7. Terraform automatically updates the `terraform.tfstate` file
 8. Run `terraform destroy` to remove all infrastructure when it's no longer needed.
+
+<br>
 <br>
 [Aaron's Notes](https://github.com/aaron-dm-mcdonald/Class7-notes/blob/main/101825/README.md)
