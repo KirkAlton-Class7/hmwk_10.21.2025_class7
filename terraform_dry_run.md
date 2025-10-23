@@ -59,7 +59,8 @@ code .
 
 When prompted, click **“Yes, I trust the authors”**.
 
-> **Important:**  Do not click “Trust the authors of all files in the parent folder.”  
+> [!CAUTION]  
+> Do not click “Trust the authors of all files in the parent folder.”  
 > Always follow the Principle of Least Privilege when granting access.
 
 ![vs_code](./images/04_vs_code.png)
