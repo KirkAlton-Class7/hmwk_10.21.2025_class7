@@ -153,14 +153,19 @@ Make sure you understand these basic commands:
 
 #### P4.3: Typical Terraform Workflow
 1. Create or modify `.tf` files
+
 2. Run `terraform init` to initialize the working directory.
+
 3. Run `terraform validate` to check syntax
+
 4. Run `terraform plan` to preview infrastructure changes
+
 5. Review the plan carefully before applying changes
+
 6. Run `terraform apply` to execute the plan
+
 7. Terraform automatically updates the `terraform.tfstate` file
 8. Run `terraform destroy` to remove all infrastructure when it's no longer needed.
 
-<br>
 <br>
 [Aaron's Notes](https://github.com/aaron-dm-mcdonald/Class7-notes/blob/main/101825/README.md)
