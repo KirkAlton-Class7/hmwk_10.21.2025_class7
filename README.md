@@ -5,7 +5,8 @@
 
 # Homework Assignment: Week 6
 **Date:** 10-22-2025
-<br>**Author:** [Kirk Alton](https://github.com/KirkAlton-Class7)
+<br>
+**Author:** [Kirk Alton](https://github.com/KirkAlton-Class7)
 
 ## Overview
 This week's homework covers Terraform basics, including terminology, basic commands, and a Terraform VPC demo.
