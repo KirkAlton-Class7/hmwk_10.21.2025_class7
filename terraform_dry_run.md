@@ -254,7 +254,7 @@ The result should resemble the image below:
 > **Touch the state, your project will break.**
 
 
-####  State File Pledge
+#### 6.3 State File Pledge
 
 **Hold your right hand to your heart and type this oath (with your left hand)**
 
