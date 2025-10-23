@@ -234,7 +234,7 @@ The result should resemble the image below:
 
 ![terraform_apply](./images/11_terraform_apply.png)
 
-**CRITICAL WARNING:**  
+**WARNING:**  
 > Never modify, erase, or manually edit the `terraform.tfstate` file.
 
 >Notice how the state file icon resembles a spine. It’s the backbone of your Terraform project.
