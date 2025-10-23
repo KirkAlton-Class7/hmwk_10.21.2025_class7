@@ -8,7 +8,6 @@
 **Author:** [Kirk Alton](https://github.com/KirkAlton-Class7)
 
 ---
-
 ### Prerequisite 1: **Repo Setup**
 Before starting, make sure you have access to one of the class Terraform repositories.  
 - #### Option 1: [Fork Theo's repo](https://github.com/malgus-waf/class5) or clone it locally.
