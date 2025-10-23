@@ -38,6 +38,7 @@ Run Aaron’s script to check required software:
 curl https://raw.githubusercontent.com/aaron-dm-mcdonald/Class7-notes/refs/heads/main/101825/check.sh | bash
 ```
 
+> [!TIP]
 > If you encounter errors, review the Aaron's notes here: [Class 7 Prerequisite README](https://github.com/KirkAlton-Class7/aaron_notes_class7/blob/main/101825/README.md#prereqs)
 
 #### **Verify AWS CLI Authentication**
@@ -52,6 +53,7 @@ It should return the following:
 - Account number
 - ARN (Amazon Resource Name)
 
+> [!TIP]
 > If this command fails, verify your AWS credentials configuration in CLI or contact your group leader for help. You can also refer to the Class 7 Installation Document for additional information.
 
 #### **Project Directory**
@@ -125,7 +127,8 @@ Terraform code is made up of the following elements:
 - **Arguments:** Assign values to names inside a block.
 - **Expressions:** Represent values directly or by referencing and combining other values. Used as argument values or inside other expressions.
 <br>
-<br>[Terraform Syntax](https://developer.hashicorp.com/terraform/language)
+<br>
+[Terraform Syntax](https://developer.hashicorp.com/terraform/language)
 
 #### P4.1: Terraform Terminology
 Terraform uses HCL (HashiCorp Configuration Language) to define infrastructure. Make sure you understand these important concepts:
