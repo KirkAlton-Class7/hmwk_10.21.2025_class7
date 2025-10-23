@@ -80,6 +80,7 @@ You should understand these basic Git commands and be comfortable performing the
 - `git branch` (`git branch -M main`)
 <br>
 <br>[Git Cheat Sheet](https://git-scm.com/cheat-sheet)
+<br>
 #### P3.3: AWS Networking Fundamentals**
 You should be familiar with VPC components and understand how to create and manage them in AWS.
 
@@ -113,6 +114,7 @@ Terraform code is made up of the following elements:
 - **Arguments:** Assign values to names inside a block.
 - **Expressions:** Represent values directly or by referencing and combining other values. Used as argument values or inside other expressions.
 <br>
+<br>[Terraform Syntax](https://developer.hashicorp.com/terraform/language)
 <br>[Terraform Syntax](https://developer.hashicorp.com/terraform/language)
 
 #### P4.1: Terraform Terminology
