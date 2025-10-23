@@ -168,4 +168,5 @@ Make sure you understand these basic commands:
 8. Run `terraform destroy` to remove all infrastructure when it's no longer needed.
 
 <br>
+
 [Aaron's Notes](https://github.com/aaron-dm-mcdonald/Class7-notes/blob/main/101825/README.md)
