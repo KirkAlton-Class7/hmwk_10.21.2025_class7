@@ -264,4 +264,6 @@ The result should resemble the image below:
 
 # YOU DID IT! CONGRATULATIONS ON YOUR FIRST TERRAFORM DEPLOYMENT!
 <br>
+
+
 ## NOW YOU'RE READY TO [DEPLOY AARON'S VPC DEMO](./aaron_vpc_demo.md)
