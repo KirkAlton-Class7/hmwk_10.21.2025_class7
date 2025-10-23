@@ -247,7 +247,7 @@ The result should resemble the image below:
 > Never modify, erase, or manually edit the `terraform.tfstate` file.
 
 > [!NOTE]  
->Notice how the state file icon resembles a spine. It’s the backbone of your Terraform project.
+>Notice how the state file icon **{ }** resembles a spine. It’s the backbone of your Terraform project.
 
 > [!CAUTION]
 > Step on a crack, you break your mother’s back;
