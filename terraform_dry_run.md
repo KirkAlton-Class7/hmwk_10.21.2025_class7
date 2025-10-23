@@ -1,6 +1,7 @@
 
 # Terraform Dry Run: Terraform Basics
 **Date:** 10-14-2025
+<br>
 **Class:** Class. 7 AWS
 
 ---
