@@ -137,9 +137,8 @@ Make sure you understand these basic commands:
 | `terraform apply`    | Executes changes that create, update or destroy resources according to your plan. Also updates the `terraform.tfstate` file. |
 | `terraform destroy`  | Removes all managed infrastructure.                                                                                          |
 | `terraform -help`    | Displays all available commands and options.                                                                                 |
-<br>
-<br>[Terraform Cheat Sheet](https://cheat-sheets.nth-root.nl/terraform-cheat-sheet.pdf)
-<br>
+[Terraform Cheat Sheet](https://cheat-sheets.nth-root.nl/terraform-cheat-sheet.pdf)
+
 #### P4.3: Typical Terraform Workflow
 1. Create or modify `.tf` files
 2. Run `terraform init` to initialize the working directory.
