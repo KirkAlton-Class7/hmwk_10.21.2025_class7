@@ -69,16 +69,27 @@ Review the [Killer Code Linux Fundamentals](https://killercoda.com/pawelpiwosz/c
 
 #### P3.2: Git and GitHub Basics
 You should understand these basic Git commands and be comfortable performing them in terminal:
-- git init
-- git status
-- git add .
-- git commit -m "Initial commit"
-- git remote add origin <repo-URL>
-- git push -u origin main
-- git pull
-- git clone <repo-URL>
-- git branch git branch -M main
-<br> [Git Cheat Sheet](https://git-scm.com/cheat-sheet)
+- `git init`
+
+- `git status`
+
+- `git add .`
+
+- `git commit -m "Initial commit"`
+
+- `git remote add origin <repo-URL>`
+
+- `git push -u origin main`
+
+- `git pull`
+
+- `git clone <repo-URL>`
+
+- `git branch git branch -M main`
+
+<br>
+<br>
+[Git Cheat Sheet](https://git-scm.com/cheat-sheet)
 <br>
 #### P3.3: AWS Networking Fundamentals**
 You should be familiar with VPC components and understand how to create and manage them in AWS.
