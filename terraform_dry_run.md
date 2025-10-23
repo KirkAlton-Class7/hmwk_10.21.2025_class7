@@ -3,6 +3,8 @@
 **Date:** 10-14-2025
 <br>
 **Class:** Class. 7 AWS
+<br>
+**Author:** [Kirk Alton](https://github.com/KirkAlton-Class7)
 
 ---
 ## Purpose
