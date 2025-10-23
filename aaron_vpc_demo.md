@@ -17,6 +17,14 @@ This lab demonstrates how to deploy and tear down a simple AWS VPC using Terrafo
 ---
 ## **Stage 1: Set Up the Project Folder**
 
+### Navigate to the Terraform Working Directory
+#### **1.1:** In your terminal (or Gitbash on Windows), navigate to the Terraform working directory.
+This could be your `/Documents/TheoWAF/Terraform` folder or another directory if you're comfortable setting up your own project structure.
+
+```bash
+cd ~/TheoWAF/Terraform/
+```
+
 ### **Step 1.2: Clone Aaron’s VPC Demo Repository**
 
 Clone the preconfigured VPC demo repository. This is a standalone version I created based on [Aaron’s original VPC lab notes.](https://github.com/aaron-dm-mcdonald/Class7-notes/tree/main/101425) It makes it easier to clone and run independently:
