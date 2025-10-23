@@ -84,7 +84,7 @@ touch 0-auth.tf
 
 > **Reminder:** If you don’t save the file, it doesn’t exist. Saving writes your changes to disk so Terraform can read and apply them.
 
-![modify_auth](./images/06_modify_auth.png)
+![modify_auth](./images/06_modify_0-auth.png)
 
 > **Note:** The line below sets a version constraint, which requires Terraform to use provider versions greater than 3.0.
 
