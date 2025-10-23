@@ -266,4 +266,4 @@ The result should resemble the image below:
 <br>
 
 
-## NOW YOU'RE READY TO [DEPLOY AARON'S VPC DEMO](./aaron_vpc_demo.md)
+## NOW YOU'RE READY TO [DEPLOY AARON'S VPC DEMO.](./aaron_vpc_demo.md)
