@@ -70,7 +70,8 @@ You should understand these basic Git commands and be comfortable performing the
 - `git pull`
 - `git clone <repo-URL>`
 - `git branch` (`git branch -M main`)
-[Git Cheat Sheet](https://git-scm.com/cheat-sheet)
+<br>
+<br>[Git Cheat Sheet](https://git-scm.com/cheat-sheet)
 #### P3.3: AWS Networking Fundamentals**
 You should be familiar with VPC components and understand how to create and manage them in AWS.
 
@@ -103,7 +104,8 @@ Terraform code is made up of the following elements:
 - **Blocks:** Containers that define objects such as resources. They can include arguments and nested blocks. Most Terraform configurations are made up of top-level blocks.
 - **Arguments:** Assign values to names inside a block.
 - **Expressions:** Represent values directly or by referencing and combining other values. Used as argument values or inside other expressions.
-[Terraform Syntax](https://developer.hashicorp.com/terraform/language)
+<br>
+<br>[Terraform Syntax](https://developer.hashicorp.com/terraform/language)
 
 #### P4.1: Terraform Terminology
 Terraform uses HCL (HashiCorp Configuration Language) to define infrastructure. Make sure you understand these important concepts:
@@ -112,7 +114,7 @@ Terraform uses HCL (HashiCorp Configuration Language) to define infrastructure. 
 - [Variable](https://developer.hashicorp.com/terraform/language/block/variable): A placeholder for input values that are used throughout Terraform configurations.
 - [Resource](https://developer.hashicorp.com/terraform/language/block/resource): A block that defines a specific piece of infrastructure for Terraform to create, manage, or destroy.
 - [Data](https://developer.hashicorp.com/terraform/language/block/data): A block that allows Terraform to read and retrieve information about existing infrastructure or external data managed outside of Terraform.
--[Terraform State File](https://developer.hashicorp.com/terraform/language/state): Stores metadata about managed resources and tracks their current state.
+- [Terraform State File](https://developer.hashicorp.com/terraform/language/state): Stores metadata about managed resources and tracks their current state.
 - [Indempotency](https://www.computerlanguage.com/results.php?definition=indempotency): The ability to run an operation multiple times and produce the same result, without creating unintended changes or side effects.
 - [Execution Plan](https://developer.hashicorp.com/terraform/cli/commands/plan): Preview of what Terraform will create, modify or destroy.
 - [Resource Drift / State Drift](https://developer.hashicorp.com/terraform/tutorials/state/resource-drift): Occurs when there are differences between your state file and real infrastructure.
@@ -127,7 +129,8 @@ Make sure you understand these basic commands:
 | `terraform apply`    | Executes changes that create, update or destroy resources according to your plan. Also updates the `terraform.tfstate` file. |
 | `terraform destroy`  | Removes all managed infrastructure.                                                                                          |
 | `terraform -help`    | Displays all available commands and options.                                                                                 |
-[Terraform Cheat Sheet](https://cheat-sheets.nth-root.nl/terraform-cheat-sheet.pdf)
+<br>
+<br>[Terraform Cheat Sheet](https://cheat-sheets.nth-root.nl/terraform-cheat-sheet.pdf)
 #### P4.3: Typical Terraform Workflow
 1. Create or modify `.tf` files
 2. Run `terraform init` to initialize the working directory.
@@ -137,4 +140,5 @@ Make sure you understand these basic commands:
 6. Run `terraform apply` to execute the plan
 7. Terraform automatically updates the `terraform.tfstate` file
 8. Run `terraform destroy` to remove all infrastructure when it's no longer needed.
+<br>
 [Aaron's Notes](https://github.com/aaron-dm-mcdonald/Class7-notes/blob/main/101825/README.md)
