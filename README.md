@@ -3,7 +3,7 @@
 
   
 
-# Homework Assignment: Week 6
+# Homework Submission: Week 6
 **Date:** 10-22-2025
 <br>
 **Author:** [Kirk Alton](https://github.com/KirkAlton-Class7)
