@@ -13,7 +13,7 @@ This week's homework covers Terraform basics, including terminology, basic comma
 
 ## Terraform Deployment and Demo Playbooks
 - [Terraform Dry Run Instructions](./terraform_dry_run.md) for deplying Terraform
-- After deplying Terraform, try this [Terraform demo running Aaron's VPC.](./aaron_vpc_demo.md)
+- After deploying the dry run, try this [Terraform demo running Aaron's VPC.](./aaron_vpc_demo.md)
 
 ---
 ## Deliverables
