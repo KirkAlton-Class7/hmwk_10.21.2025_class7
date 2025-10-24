@@ -17,6 +17,6 @@ This week's homework covers Terraform basics, including terminology, basic comma
 
 ---
 ## Deliverables
-- ✅ [Successful "terraform apply" in VS Code](./terraform_apply.png)
+- ✅ [Successful "terraform apply" in VS Code](./images/terraform_apply.png)
 - ✅ [Results from `aws sts get-caller-identity`](./images/aws_sts_get_caller_identity.png)
 - Text document listing people who were able to use my instructions to deploy Terraform on their own. **(In Progress)**
