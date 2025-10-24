@@ -179,7 +179,7 @@ Return to the AWS Management Console and confirm that:
 ---
 
 ## **Cleanup**
-Remove the local demo folder if no longer needed:
+Remove the demo folder if no longer needed:
 
 ```bash
 cd ..
