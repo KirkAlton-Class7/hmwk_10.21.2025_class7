@@ -124,6 +124,7 @@ terraform state list
 - Navigate to **VPC → Your VPCs** and confirm the new VPC exists.
 - Check subnets, route tables, and gateways as needed.
 
+> [!TIP]
 > The demo VPC deploys in the us-east-1 region. Make sure you select this region in the AWS console, otherwise the VPC will not appear in your list.
 
 
