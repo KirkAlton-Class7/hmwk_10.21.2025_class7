@@ -1,6 +1,5 @@
 ## Prerequisites and Skill Requirements
 
-# Deploy Aaron’s VPC Demo
 **Date:** 10-18-2025
 <br>
 **Class:** Class. 7 AWS
