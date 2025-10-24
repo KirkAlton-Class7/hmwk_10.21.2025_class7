@@ -1,4 +1,4 @@
-## Prerequisites and Skill Requirements
+# Prerequisites and Skill Requirements
 
 **Date:** 10-18-2025
 <br>
